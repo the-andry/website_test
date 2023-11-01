@@ -1,5 +1,4 @@
-html, body, div { margin: 0; padding: 0; border: 0 none; }
-.container { width: 960px; margin: 0 auto; }
-.content { width: 760px; float: left; }
-.sidebar { width: 200px; float: right; }
-.footer { clear: both; }
+html, body, div {  
+    border: 2px groove blue;
+    height: 50px;
+}
