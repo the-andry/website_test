@@ -1,5 +1,5 @@
 # website_test
-This project is part of the Odin Project curriculum to create a website frmo scratch using HTML + CSS. 
+This project is part of the Odin Project curriculum to create a website from scratch using HTML + CSS. No help was provided to create this site, apart the knowledge aquired during the class and google. 
 Odin task: https://www.theodinproject.com/lessons/foundations-landing-page
 
 Learnings:
@@ -10,4 +10,13 @@ Learnings:
     4) git status
 - Use "git pull" in case of issue with the Terminal "Updates were rejected because the remote contains work ..."
 - Favicon add-on for tiny image in upper part of browser
+- Importing fonts from Google
+- Adding Rick Roll links (very important)
+- Importance of commenting for facilitating debugging
+- CSS Flex
+- Insert Images
+- Shaping buttons
+- ...
+
+
 
