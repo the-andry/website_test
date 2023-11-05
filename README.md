@@ -18,5 +18,11 @@ Learnings:
 - Shaping buttons
 - ...
 
+Website snip:
+![Alt text](image-1.png)
+
+Visual Studio code snip:
+![Alt text](image.png)
+
 
 
